@@ -1,4 +1,12 @@
 # team-3-git-practice
 Group Practice for Merge Conflicts
-***SAmuel Apoya*
-Samuel Apoya' fun fact: I enjoying and playing classical music.
+
+# Emely
+fun fact: i was in taiwan over the summer
+
+# Daniel Yu 
+I'm an animator :DDDDDD
+
+# Samuel Apoya
+I love to play the piano especially classical music.
+
