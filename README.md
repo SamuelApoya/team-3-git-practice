@@ -7,3 +7,6 @@ fun fact: i was in taiwan over the summer
 # Daniel Yu 
 I'm an animator :DDDDDD
 
+# Samuel Apoya
+I love to play the piano especially classical music.
+
