@@ -9,6 +9,6 @@ I'm an animator :DDDDDD
 # Samuel Apoya
 I love to play the piano especially classical music.
 
-#Jordan
+# Jordan
 Hi! My name is Jordan and I like to play basketball.
 
