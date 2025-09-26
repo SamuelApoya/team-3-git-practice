@@ -13,4 +13,4 @@ I love to play the piano especially classical music.
 Hi! My name is Jordan and I like to play basketball.
 
 # Timur
-Hi! My name is Tim and, same as Jordan, I love basketball and played for 6 years. AAAAAAA OOOOOO JJJJJJJ  HHHHHHHH
+Hi! My name is Tim and, same as Jordan, I love basketball and played for 6 years!
